@@ -1,13 +1,13 @@
 Hi 👋 My name is Dalia
 ======================
 
-Aspiring front-end developer and UI/UX designer
+Front-end developer and self-taught UI/UX designer
 -----------------------------------------------
 
 * 🌍  I'm based in Italy
-* ✉️  You can contact me at [daliaabbruciati@gmail.com](mailto:daliaabbruciati@gmail.com)
-* 🧠  I'm learning JS, ReactJs, PHP
-* ⚡  I would love to improve my dev and design skills, so contact me if you want to collaborate ;)
+* 🧠  Proficient in HTML, CSS, JS, ReactJs, NextJS
+* 🤝  Currently working with <a href="https://www.netstrada.it/it/">NetStrada</a>
+* ✉️   You can contact me at [daliaabbruciati@gmail.com](mailto:daliaabbruciati@gmail.com)
 
 ### Skills
 
