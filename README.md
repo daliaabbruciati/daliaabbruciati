@@ -6,7 +6,7 @@ Front-end developer and self-taught UI/UX designer
 
 * 🌍  I'm based in Italy
 * 🧠  Proficient in HTML, CSS, JS, ReactJs, NextJS
-* 🤝  Currently in collaboration with <a href="https://www.netstrada.it/it/">NetStrada</a>
+* 🤝  Currently in collaboration with <a href="https://www.netstrada.it/it/">Netstrada</a>
 * ✉️   You can contact me at [daliaabbruciati@gmail.com](mailto:daliaabbruciati@gmail.com)
 
 ## Skills
