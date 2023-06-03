@@ -1,7 +1,7 @@
 Hi 👋 My name is Dalia
 ======================
 
-Front-end developer and self-taught UI/UX designer
+Frontend developer | UI/UX designer
 -----------------------------------------------
 
 * 🌍  I'm based in Italy
