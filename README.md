@@ -33,3 +33,7 @@ Front-end developer
 
 ### Socials
 <p align="left">  <a href="https://www.linkedin.com/in/dalia-abbruciati-137655228/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+#### My GitHub Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daliaabbruciati&hide=stars&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daliaabbruciati&hide=stars&show_icons=true&theme=dark#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
