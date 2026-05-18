@@ -5,8 +5,8 @@ Front-end developer
 -----------------------------------------------
 
 * 🌍  Based in Italy
-* 🧠  Proficient in ReactJs, NextJS, Remix, TailwindCSS
-* ✉️  You can contact me at [daliaabbruciati@gmail.com](mailto:daliaabbruciati@gmail.com)
+* 🧠  Proficient in ReactJs, NextJS, Remix, React-router, TailwindCSS
+* ✉️  You can contact me at [dalia.abbruciati@gmail.com](mailto:daliaabbruciati@gmail.com)
 
 ## Tech stack ⚙️
 
